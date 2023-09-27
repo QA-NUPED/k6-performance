@@ -7,7 +7,7 @@ O K6 retorna as informações através do relatório no terminal, podendo també
 
 - [Node.js] - plataforma de desenvolvimento
 - [JavaScript] - linguagem de programação
-- [k6] - ferramenta para teste de carga, performance, stress 
+- [k6](https://k6.io/docs/) - ferramenta para teste de carga, performance, stress 
 
 ## 👨🏻‍💻 Como executar o projeto
 
