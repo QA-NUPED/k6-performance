@@ -1,5 +1,7 @@
 ## POC para uso da ferramenta K6
-Este PR foi um estudo para o uso da ferramenta K6 para os nossos testes 
+Este PR foi um estudo para o uso da ferramenta K6 para os nossos testes de perfomance, foi avaliado a aplicabilidade e a curva de aprendizado da ferramenta no dia a dia de trabalho. 
+O K6 é uma ferramente que usa o JavaScript para escrita dos testes possibilitando realizar testes de carga, estresse e fumaça. 
+O K6 retorna as informações através do relatório no terminal, podendo também ser configurado para gerar um report HTML. 
 
 ## 🚀 Tecnologias
 
